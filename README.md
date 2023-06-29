@@ -15,7 +15,8 @@ Todo task app with react
     ```bash
        npx tailwind init
     ```
-    add
+    add to the index.css
+
     ```css
     @tailwind base;
     @tailwind components;
